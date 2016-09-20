@@ -7,7 +7,7 @@ For more information on how to use products such as Apache Hive in combination
 with Apache Spark and Azure Data Lake check the following links:
 
  - [Get started with Apache Hive](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
- - [Link Azure Data Link to your Spark cluster](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-hdinsight-hadoop-use-portal/)
+ - [Link Azure Data Lake to your Spark cluster](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-hdinsight-hadoop-use-portal/)
 
 ## Prerequisites
 Make sure that you have a Azure Date Lake instance configured on Azure.
