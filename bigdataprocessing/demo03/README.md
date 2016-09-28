@@ -33,6 +33,13 @@ create table measurements (offset bigint, dimension string, value double) locati
 create table averages (dimension string, value double) location 'adl://<your azure data lake store>/data/averages';
 ```
 
+You can insert some records into the measurements table using the following command.
+Change the values to what you want for your test.
+
+```
+INSERT INTO measurements VALUES(1,'temperature', 100000)
+```
+
 ## Run the demo
 Open the code in IntelliJ, right click the project and select
 Submit job to HDInsight. Follow the instructions on screen to run the
